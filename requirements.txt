@@ -1,0 +1,20 @@
+fastapi
+uvicorn
+numpy
+scipy
+sympy
+sympy
+numpy
+scipy
+pandas
+# For molecular analysis (optional, heavy):
+rdkit-pypi
+# For astrophysics:
+astropy
+# For visualization:
+matplotlib
+plotly
+# For predictive analytics:
+scikit-learn
+tensorflow
+torch
