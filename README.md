@@ -57,12 +57,14 @@ ________________
 
 Setup Instructions:
 1. Clone the repository
+
 cd ~/Documents/GitHub
 git clone https://github.com/ROSHANDAPPU/Cal-C.Ai.git
 cd Cal-C.Ai
 
 
 2. Create a virtual environment & install dependencies
+
 python -m venv .venv
 source .venv/bin/activate          # macOS / Linux
 # .venv\Scripts\Activate.ps1       # Windows PowerShell
@@ -134,4 +136,5 @@ Best Practices & Contribution:
 * Always use .env for secrets; .env.example stays in repo.
 * Avoid committing __pycache__ and temporary files (added to .gitignore).
 * Open an issue before major changes.
+
 * Submit pull requests with clear descriptions of your changes
